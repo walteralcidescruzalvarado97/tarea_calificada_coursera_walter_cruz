@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QualifizierterTaskWalterCruz</string>
+    <string name="header_text">Willkommen</string>
+    <string name="button_text">Betreten</string>
+</resources>

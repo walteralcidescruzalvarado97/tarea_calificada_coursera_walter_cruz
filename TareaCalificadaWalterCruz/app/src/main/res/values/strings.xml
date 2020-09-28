@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TareaCalificadaWalterCruz</string>
+    <string name="header_text">Bienvenido</string>
+    <string name="button_text">Entrar</string>
+</resources>
